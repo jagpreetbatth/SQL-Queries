@@ -1,2 +1,2 @@
 # SQL-Queries
-SQL queries for data analysis for an online streaming moving firm.
+SQL queries for data analysis for a fictional online streaming movie firm called "Rockbuster".
