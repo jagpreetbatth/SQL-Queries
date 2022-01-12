@@ -36,7 +36,7 @@ The following applications were utilized in order to complete a full data analys
 
 * PostgreSQL
 * Tableau
-* Excel
+* MS Excel
 
 Link to Tableau Story Board
 
