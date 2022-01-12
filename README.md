@@ -19,12 +19,12 @@ Key Questions
 
 The Rockbuster Stealth Management Board needs data-driven answers to multiple key indicies that they can use for their upcomoing 2020 company outlook and implementation, some of the key questions are listed below:
 
-Which movies contributed the most/least to revenue gain?
-What was the average rental duration for all videos?
-Which countries are Rockbuster customers based in?
-Where are customers with a high lifetime value based?
-Do sales figures vary between geographic regions?
-About The Data
+* Which movies contributed the most/least to revenue gain?
+* What was the average rental duration for all videos?
+* Which countries are Rockbuster customers based in?
+* Where are customers with a high lifetime value based?
+* Do sales figures vary between geographic regions?
 
-The data was provided by my data analytics course, Career Foundry. The data is a relational database containing infromation about Rockbuster's film inventory, customers, and payments, among other things.
+Data Acquisition protocol:
+The data used for analysis in this scenerio was provided by an online data analytics course implemented by Career Foundry. The relational database provided infromation about Rockbuster's film inventory, customers, and payments as well as various keys to relate each factor. 
 
