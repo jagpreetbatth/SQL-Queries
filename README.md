@@ -9,7 +9,7 @@ Quick points:
 * Utilize SQL, Excel and Tableau to gain insight on customer prefrences, sales and company outlook. 
 
 
-Rockbusters Stealth Data Analytics Project (SQL)
+Rockbusters Stealth Data Analytics Project (SQL based)
 
 Rockbusters Stealth Background:
 
