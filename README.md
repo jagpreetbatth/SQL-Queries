@@ -13,7 +13,7 @@ Rockbusters Stealth Data Analytics Project (SQL)
 
 Rockbusters Stealth Background:
 
-"Rockbusters" is a fictional film catalog frim with an urgent need of a data analyst to aid in launching an online video streaming service to stay competitive and with current trends. Working with the business intelligence department, we compile a strategy for the new online video streaming service by utlilizing SQL queries to gain insight on customer prefrences, movies, and video rental patterns. 
+"Rockbusters" is a fictional film catalog frim with an urgent need of a data analyst to aid in launching an online video streaming service in order to to stay competitive with current trends. Working along side the business intelligence department, we compile a strategy for the new online video streaming service by utlilizing SQL queries to gain insight on customer prefrences, movies, and video rental patterns. 
 
 Key Questions
 
