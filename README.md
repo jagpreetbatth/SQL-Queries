@@ -26,7 +26,9 @@ The Rockbuster Stealth Management Board needs data-driven answers to multiple ke
 * Do sales figures vary between geographic regions?
 
 Data Acquisition protocol:
-The data used for analysis in this scenerio was provided by an online data analytics course implemented by Career Foundry. The relational database provided infromation about Rockbuster's film inventory, customers, and payments as well as various keys to relate each factor. 
+The data used for analysis in this scenerio was provided by an online data analytics course implemented by Career Foundry. The relational database management system (RDBMS) provided infromation about Rockbuster's film inventory, customers, and payments as well as various keys to relate each factor. 
 
-*http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip
+* [Click here to access raw database](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
+
+
 
