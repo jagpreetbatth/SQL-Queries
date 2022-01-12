@@ -30,5 +30,15 @@ The data used for analysis in this scenerio was provided by an online data analy
 
 * [Click here to access raw database](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
 
+**Tools
 
+The following applications were utilized in order to complete a full data analysis
+
+* PostgreSQL
+* Tableau
+* Excel
+
+Link to Tableau Story Board
+
+* [Tableau Dashboard for Rockbusters Final Project](https://public.tableau.com/views/RockbusterPresentation_16373613023610/CountRevenue?:language=en-US&:display_count=n&:origin=viz_share_link)
 
