@@ -4,9 +4,9 @@
 # SQL-Queries
 Quick points:
 
-SQL queries for data analysis for a fictional online streaming movie firm called "Rockbusters".
+* SQL queries for data analysis for a fictional online streaming movie firm called "Rockbusters".
 
-Utilize SQL, Excel and Tableau to gain insight on customer prefrences, sales and company outlook. 
+* Utilize SQL, Excel and Tableau to gain insight on customer prefrences, sales and company outlook. 
 
 
 Rockbusters Stealth Data Analytics Project (SQL)
