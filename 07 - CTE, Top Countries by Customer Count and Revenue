@@ -1,0 +1,25 @@
+-- Top 10 countries based on revenue and number of customers --
+
+WITH total_amount_paid_cte AS
+	(SELECT
+		E. country,
+		SUM (amount) AS total_amount_paid
+	FROM payment A
+		INNER JOIN Customer B ON A. customer_id = B. customer_id
+		INNER JOIN address C ON B. address_id = C. address_id
+		INNER JOIN city D ON C. city_id = D. city_id
+		INNER JOIN country E ON D. country_id = E. country_id
+	GROUP BY country
+	ORDER BY total_amount_paid DESC)
+SELECT
+	D. country,
+	total_amount_paid_cte.total_amount_paid AS top_countries_revenue,
+	COUNT(customer_id) AS customer_count
+FROM customer A
+	INNER JOIN address B ON A. address_id = B. address_id
+	INNER JOIN city C ON B. city_id = C. city_id
+	INNER JOIN country D ON C. country_id = D. country_id
+	LEFT JOIN total_amount_paid_cte ON D. country = total_amount_paid_cte.country
+GROUP BY D. country, top_countries_revenue
+ORDER BY customer_count DESC
+LIMIT 10;
