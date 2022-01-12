@@ -28,3 +28,5 @@ The Rockbuster Stealth Management Board needs data-driven answers to multiple ke
 Data Acquisition protocol:
 The data used for analysis in this scenerio was provided by an online data analytics course implemented by Career Foundry. The relational database provided infromation about Rockbuster's film inventory, customers, and payments as well as various keys to relate each factor. 
 
+*http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip
+
